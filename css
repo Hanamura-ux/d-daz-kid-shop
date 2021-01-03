@@ -1,0 +1,72 @@
+
+.p{
+	border-bottom-color  
+}
+.satu{
+    border: 10px double pink;
+    border-bottom-color: dusty pink;
+    background-color: antiquewhite;
+}
+.pink{
+	background-color: pink;
+	
+}
+.p{
+	border-bottom-color: bisque;
+}
+.merah{
+    background-color: red;
+
+}
+.pink{
+    background-color: pink;
+    
+}
+.kuning{
+    background-color: yellow;
+}
+.merah{
+    background-color: red;    
+}
+.pink{
+    background-color: pink;
+}
+.kuning{
+    background-color: yellow;
+}
+.blue{
+    background-color: blue;
+    width: 300px;
+    height: 350px;
+}
+.blue{
+    background-color: blue;
+}
+.aqua{
+    background-color: aqua;
+}
+.cerah{
+  background-color: bisque;  
+}
+.pemisah{
+    padding: 10px;
+}
+.soft{
+    background-color: aquamarine;
+}
+.sweet{
+    background-color: bisque;
+}
+.aqua{
+    background-color: aquamarine;
+}
+.ceria{
+    background-color: aquamarine;
+}
+.sweety{
+    background-color: bisque;
+}
+.dua{
+    border: 10px double pink;
+    background-color: antiquewhite;
+}
